@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 19 14:27:01 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0177-1ad3-c3d0-00000686e190 
+on database directory /home/dylan/Development/Code/Dataroots/Spark/SparkPlayground/Chapter7/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/usr/local/spark/jars/derby-10.12.1.1.jar
+java.vendor=Debian
+java.runtime.version=11.0.9.1+1-post-Debian-1deb10u2
+user.dir=/home/dylan/Development/Code/Dataroots/Spark/SparkPlayground/Chapter7
+os.name=Linux
+os.arch=amd64
+os.version=4.19.0-13-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
