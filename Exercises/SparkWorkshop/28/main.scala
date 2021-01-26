@@ -17,3 +17,9 @@ data.groupBy("type").
     show()
 
 
+  data.groupBy("type").
+    pivot("date").
+    agg(collect_set($"ship")).
+    orderBy("type").
+    show()
+
